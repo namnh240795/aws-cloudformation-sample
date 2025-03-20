@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1742446778757" clover="3.2.0">
+  <project timestamp="1742446778757" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="restricted-access-ssm-stack.ts" path="/Users/taichi/Documents/GitHub/aws-cloudformation-sample/example/restricted-access-ssm/lib/restricted-access-ssm-stack.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="95" count="1" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
